@@ -11,6 +11,3 @@ it('should do something amazing', () => {
 	expect(true).toBe(true);
   });
 
-it('should do something amazing', () => {
-    expect(true).toBe(false);
-});
